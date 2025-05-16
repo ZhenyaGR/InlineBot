@@ -1,5 +1,5 @@
 <?php
-require 'vendor/autoload.php';
+require 'TGZ/autoload.php';
 use ZhenyaGR\TGZ\TGZ as tg;
 
 const BOT_TOKEN = 'YourBotToken';
