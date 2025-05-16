@@ -1,0 +1,17 @@
+{
+    "name": "zhenyagr/tg-z",
+    "description": "Библиотека для разработки ботов в Telegram методом WebHook",
+    "type": "library",
+    "require": {
+        "php": ">=8.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZhenyaGR\\TGZ\\": "src/" 
+        }
+    },
+    "minimum-stability": "alpha",
+    "prefer-stable": true,
+    "license": "MIT"
+}
